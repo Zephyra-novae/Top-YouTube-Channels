@@ -31,4 +31,4 @@ The goal of this project is to:
 ## ⚙️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Black-71/top-youtube-channels-analysis.git
+https://zephyra-novae.github.io/Top-YouTube-Channels/

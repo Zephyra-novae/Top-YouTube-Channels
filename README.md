@@ -29,6 +29,4 @@ The goal of this project is to:
 ---
 
 ## ⚙️ How to Run
-1. Clone this repository:
-   ```bash
-https://zephyra-novae.github.io/Top-YouTube-Channels/
+As GitHub doesnot spport .ipynb files so preiew the top_channel.ipynb
